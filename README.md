@@ -1,2 +1,2 @@
 # mcb185_homework
--2nd day at YSP
+# 2nd day at YSP
