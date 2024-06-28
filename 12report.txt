@@ -1,0 +1,17 @@
+Thu Jun 27 23:37:14 PDT 2024
+user: mrudu
+home: /home/mrudu
+shell: /bin/bash
+pwd: /home/mrudu/Code/mcb185_homework
+path: /usr/local/bin:/usr/bin:/cygdrive/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/Java/jre1.8.0_361/bin:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Users/mrudu/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/mrudu/AppData/Local/Programs/Microsoft VS Code/bin
+CYGWIN_NT-10.0-22631 cu-dell-persona 3.5.3-1.x86_64 2024-04-03 17:25 UTC x86_64 Cygwin
+Python 3.9.16
+/home/mrudu/Code
+/home/mrudu/Code/MCB185
+/home/mrudu/Code/MCB185/.git
+/home/mrudu/Code/MCB185/course
+/home/mrudu/Code/MCB185/data
+/home/mrudu/Code/MCB185/ref
+/home/mrudu/Code/MCB185/src
+/home/mrudu/Code/mcb185_homework
+/home/mrudu/Code/mcb185_homework/.git
