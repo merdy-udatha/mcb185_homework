@@ -1,0 +1,1 @@
+gunzip -c ../MCB185/data/dictionary.gz | grep "...." | grep "r" | grep -E -c "^[ziracno]*[ziracno]$"
