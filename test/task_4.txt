@@ -1,0 +1,5 @@
+there are more genes on the negative strand in E. coli
+
+$ gunzip -c ecoli.gff.gz | cut -f 3,7 | grep "^gene*" | grep -c "-"
+
+
